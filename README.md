@@ -10,6 +10,7 @@
  
 ## Usage
 Flash the .ino file to [Control-Surface](https://github.com/tttapa/Control-Surface) compatible board. Then, in Traktor go to settings, Controller Manager, and add both Deck A and Deck B from Numark->Mixdeck. Set their outports as your board, and set their respective device targets like this:
+
 ![](https://i.imgur.com/CCHvgnJ.png)
 ![](https://i.imgur.com/NOcctTD.png)
 
